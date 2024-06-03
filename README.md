@@ -12,7 +12,7 @@
 
 📫 : wwwizard04@gmail.com | Que vous ayez une idée de projet, ou simplement envie de discuter de la dernière tendance tech, n'hésitez pas à me contacter !
 
-💬 Questionnez moi sur n'importe quoi mais plus specialement a propos de Python, django, compose & Kotlin !
+💬 Questionnez moi sur n'importe quoi et plus specialement a propos de Python, django, compose & Kotlin !
 
 ⚡️ Fun fact : Loin de mon clavier, je savoure une bière tout en imaginant la prochaine révolution technologique.😉
 
@@ -24,4 +24,4 @@
 ## 🛠 Skills
 #### Python, Kotlin, Jetpack Compose, Django!
 
-Bienvenue dans mon univers numérique, où chaque projet est une aventure et chaque bug une opportunité d'apprendre et de grandir. 🎉
+Bienvenue dans mon univers digital, où chaque projet est une épopée et chaque bug, une source d'apprentissage et d'évolution. 🎉
