@@ -22,6 +22,6 @@
 
 
 ## 🛠 Skills
-Python, Kotlin, Jetpack Compose, Django!
+#### Python, Kotlin, Jetpack Compose, Django!
 
 Bienvenue dans mon univers numérique, où chaque projet est une aventure et chaque bug une opportunité d'apprendre et de grandir. 🎉
