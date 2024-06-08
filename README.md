@@ -8,7 +8,7 @@
 
 👩‍💻 Je participe actuelement au concours pour les dévelopeur de l'API Gemini!
 
-🧠 Actuellement, j'approfondis mes connaissances en cloud computing avec Azure et en orchestration de conteneurs avec Kubernetes !
+🧠 Actuellement, j'approfondis mes connaissances en cloud computing avec Google cloud et en orchestration de conteneurs avec Kubernetes !
 
 📫 : wwwizard04@gmail.com | Que vous ayez une idée de projet, ou simplement envie de discuter de la dernière tendance tech, n'hésitez pas à me contacter !
 
