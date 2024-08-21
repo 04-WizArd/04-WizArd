@@ -6,7 +6,7 @@
 ## 🙋‍ A propos
 🚀 Passionné par la magie des bits et des octets, developeur Python 🌐& Kotlin 📲
 
-👩‍💻 Je participe actuelement au concours pour les dévelopeur de l'API Gemini!
+👩‍💻 StoryForgeAI, 🔜 ...!
 
 🧠 Actuellement, j'approfondis mes connaissances en cloud computing avec Google cloud et en orchestration de conteneurs avec Kubernetes !
 
