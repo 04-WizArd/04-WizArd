@@ -24,4 +24,4 @@
 ## 🛠 Skills
 #### Python, Kotlin, Jetpack Compose, Django!
 
-Bienvenue dans mon univers Digital, où chaque projet est une épopée et chaque bug, une source d'apprentissage et d'évolution.
+Bienvenue dans mon univers Digital, où chaque projet est une épopée et chaque bug, une source d'apprentissage et d'évolution
