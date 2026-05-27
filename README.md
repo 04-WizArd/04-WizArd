@@ -86,7 +86,8 @@ Vehicle marketplace platform tailored for the Congolese market.
 📫 Email: `jrdmkb@gmail.com` `jordi.jordi.dev@gmail.com`
 
 🐦 Twitter/X:  
-:contentReference[oaicite:0]{index=0}
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/The_Wizard____/)
+
 
 ---
 
