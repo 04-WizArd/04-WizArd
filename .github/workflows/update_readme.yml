@@ -1,0 +1,37 @@
+name: Refresh Profile Quote
+
+on:
+  schedule:
+    # On demande toutes les minutes, GitHub l'exécutera au maximum de ses capacités gratuites
+    - cron: '* * * * *'
+  workflow_dispatch: # Te permet de le lancer à la main pour tester immédiatement !
+
+jobs:
+  refresh-quote:
+    runs-on: ubuntu-latest
+    
+    steps:
+    # 1. Récupérer le code du dépôt
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # 2. Configurer Python sur la machine virtuelle
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    # 3. Lancer le script qui change la citation
+    - name: Run quote script
+      run: python update_quote.py
+
+    # 4. Enregistrer les modifications et les envoyer sur GitHub
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        
+        # Le "|| exit 0" évite que le workflow plante si le script rechoisit la même citation
+        git commit -m "bot: nouvelle citation de dev" || exit 0
+        git push
