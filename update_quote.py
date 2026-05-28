@@ -9,7 +9,7 @@ quotes = [
     "“Before software can be reusable it first has to be usable.” – Ralph Johnson",
     "“Computers are good at following instructions, but not at reading your mind.”",
     "“Deleted code is debugged code.” – Jeff Sickel",
-    "“It’s not a bug – it’s an undocumented feature.”",
+    "“It’s not a bug. it’s an undocumented feature.”",
     "“Simplicity is the soul of efficiency.” – Austin Freeman",
     "“First, solve the problem. Then, write the code.” – John Johnson",
     "“Code is like humor. When you have to explain it, it’s bad.” – Cory House"
