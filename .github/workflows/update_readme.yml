@@ -2,22 +2,25 @@ name: Refresh Profile Quote
 
 on:
   schedule:
-    # On demande toutes les minutes, GitHub l'exécutera au maximum de ses capacités gratuites
     - cron: '* * * * *'
-  workflow_dispatch: # Te permet de le lancer à la main pour tester immédiatement !
+  workflow_dispatch:
+
+# On définit la variable globale pour utiliser Node 24 sur tout le workflow
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 jobs:
   refresh-quote:
     runs-on: ubuntu-latest
     
     steps:
-    # 1. Récupérer le code du dépôt
+    # 1. Version v5 mise à jour
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
-    # 2. Configurer Python sur la machine virtuelle
+    # 2. Version v6 mise à jour
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
@@ -31,7 +34,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add README.md
-        
-        # Le "|| exit 0" évite que le workflow plante si le script rechoisit la même citation
         git commit -m "bot: nouvelle citation de dev" || exit 0
         git push
