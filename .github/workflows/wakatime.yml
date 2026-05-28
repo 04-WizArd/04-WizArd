@@ -1,0 +1,27 @@
+name: WakaTime Status Update
+
+on:
+  schedule:
+    # S'exécute automatiquement toutes les nuits à minuit
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Te permet de déclencher la mise à jour manuellement à tout moment
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      # L'action communautaire officielle qui va récupérer tes données WakaTime
+      - name: Update WakaTime Card
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: "waka"
+          BLOCKS: "█" # Style de la barre de progression (tu peux mettre des caractères comme █ ou 🚀)
+          TIME_RANGE: "last_7_days" # Récupère les stats des 7 derniers jours
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
