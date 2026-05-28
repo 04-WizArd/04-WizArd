@@ -101,6 +101,13 @@ Vehicle marketplace platform tailored for the Congolese market.
 
 ---
 
+## 📊 My Coding Activity (Weekly Stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## ⚡ Fun Fact
 
 When I’m away from my keyboard, I’m probably thinking about the next big tech idea while enjoying good music and a cold drink 🍻
