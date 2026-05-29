@@ -109,5 +109,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+“First, solve the problem. Then, write the code.” – John Johnson
 <!-- END_QUOTE -->
