@@ -109,5 +109,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+“Programs must be written for people to read, and only incidentally for machines to execute.”
 <!-- END_QUOTE -->
