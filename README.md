@@ -109,5 +109,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“First, solve the problem. Then, write the code.” – John Johnson
+“It’s not a bug. it’s an undocumented feature.”
 <!-- END_QUOTE -->
