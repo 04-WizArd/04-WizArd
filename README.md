@@ -110,5 +110,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Simplicity is the soul of efficiency.” – Austin Freeman
+“It’s not a bug. it’s an undocumented feature.”
 <!-- END_QUOTE -->
