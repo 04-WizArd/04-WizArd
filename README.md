@@ -111,5 +111,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Deleted code is debugged code.” – Jeff Sickel
+“Computers are good at following instructions, but not at reading your mind.”
 <!-- END_QUOTE -->
