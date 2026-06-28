@@ -112,5 +112,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Before software can be reusable it first has to be usable.” – Ralph Johnson
+“Talk is cheap. Show me the code.” – Linus Torvalds
 <!-- END_QUOTE -->
