@@ -112,5 +112,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Simplicity is the soul of efficiency.” – Austin Freeman
+“Programs must be written for people to read, and only incidentally for machines to execute.”
 <!-- END_QUOTE -->
