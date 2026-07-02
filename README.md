@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Simplicity is the soul of efficiency.” – Austin Freeman
+“Deleted code is debugged code.” – Jeff Sickel
 <!-- END_QUOTE -->
