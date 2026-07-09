@@ -110,5 +110,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Talk is cheap. Show me the code.” – Linus Torvalds
+“Simplicity is the soul of efficiency.” – Austin Freeman
 <!-- END_QUOTE -->
