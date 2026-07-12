@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Every bug is just another level of understanding.”
+“Simplicity is the soul of efficiency.” – Austin Freeman
 <!-- END_QUOTE -->
