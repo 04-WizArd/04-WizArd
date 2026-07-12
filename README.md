@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Programs must be written for people to read, and only incidentally for machines to execute.”
+“First, solve the problem. Then, write the code.” – John Johnson
 <!-- END_QUOTE -->
