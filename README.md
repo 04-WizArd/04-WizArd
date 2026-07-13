@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Simplicity is the soul of efficiency.” – Austin Freeman
+“Before software can be reusable it first has to be usable.” – Ralph Johnson
 <!-- END_QUOTE -->
