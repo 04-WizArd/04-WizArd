@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Every bug is just another level of understanding.”
+“Computers are good at following instructions, but not at reading your mind.”
 <!-- END_QUOTE -->
