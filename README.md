@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Talk is cheap. Show me the code.” – Linus Torvalds
+“First, solve the problem. Then, write the code.” – John Johnson
 <!-- END_QUOTE -->
