@@ -110,5 +110,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“First, solve the problem. Then, write the code.” – John Johnson
+“Deleted code is debugged code.” – Jeff Sickel
 <!-- END_QUOTE -->
