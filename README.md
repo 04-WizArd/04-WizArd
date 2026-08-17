@@ -112,5 +112,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“It’s not a bug. it’s an undocumented feature.”
+“Talk is cheap. Show me the code.” – Linus Torvalds
 <!-- END_QUOTE -->
