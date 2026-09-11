@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Talk is cheap. Show me the code.” – Linus Torvalds
+“Every bug is just another level of understanding.”
 <!-- END_QUOTE -->
