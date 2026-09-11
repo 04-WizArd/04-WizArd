@@ -108,5 +108,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Computers are good at following instructions, but not at reading your mind.”
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
 <!-- END_QUOTE -->
