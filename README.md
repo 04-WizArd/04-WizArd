@@ -92,9 +92,12 @@ Vehicle marketplace platform tailored for the Congolese market.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-No activity tracked
+Kotlin   29 mins               ██████████░░░░░░░░░░░░░░░   39.88 %
+HTML     26 mins               █████████░░░░░░░░░░░░░░░░   36.63 %
+TOML     10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+XML      6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
 ```
 
 <!--END_SECTION:waka-->
