@@ -111,5 +111,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Computers are good at following instructions, but not at reading your mind.”
+“Before software can be reusable it first has to be usable.” – Ralph Johnson
 <!-- END_QUOTE -->
