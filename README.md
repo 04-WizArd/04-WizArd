@@ -92,13 +92,13 @@ Vehicle marketplace platform tailored for the Congolese market.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-TypeScript   3 hrs 48 mins         ██████████████████▒░░░░░░   73.14 %
-Python       45 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-CSS          28 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Git Config   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+TypeScript   4 hrs 23 mins         █████████████████▓░░░░░░░   70.42 %
+Python       1 hr 2 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+CSS          28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Other        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Git Config   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
