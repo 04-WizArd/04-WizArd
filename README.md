@@ -112,5 +112,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Talk is cheap. Show me the code.” – Linus Torvalds
+“Deleted code is debugged code.” – Jeff Sickel
 <!-- END_QUOTE -->
