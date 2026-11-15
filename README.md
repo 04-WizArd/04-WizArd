@@ -112,5 +112,5 @@ When I’m away from my keyboard, I’m probably thinking about the next big tec
 ---
 
 <!-- START_QUOTE -->
-“Programs must be written for people to read, and only incidentally for machines to execute.”
+“Before software can be reusable it first has to be usable.” – Ralph Johnson
 <!-- END_QUOTE -->
